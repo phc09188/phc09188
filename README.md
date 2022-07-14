@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chandle&hide_border=true&locale=ko)](https://git.io/streak-stats)
 <!--
 **phc09188/phc09188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
