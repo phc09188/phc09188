@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontColor=363636&fontSize=90)
 
 ## 💻 Tech Stacks
 
@@ -32,5 +31,7 @@ Techs I've used list one</br>
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
   
 <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phc09188&layout=compact&theme=radical)
 
 </div>
