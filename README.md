@@ -6,7 +6,7 @@
    <img src="https://img.shields.io/badge/Kotlin-A8B9CC?style=for-the-badge&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
    <br>
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84.svg?&style=for-the-badge&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-
+  <br>
   <img alt="ORACLE" src="https://img.shields.io/badge/ORACLE-F80000?&style=for-the-badge&logo=ORACLE&logoColor=white"/> <img alt="MYSQL" src="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=MYSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> 
   <br>
 
