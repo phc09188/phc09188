@@ -18,6 +18,4 @@
   
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phc09188&layout=compact&theme=radical)
-
 </div>
